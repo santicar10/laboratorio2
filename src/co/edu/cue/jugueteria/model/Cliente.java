@@ -5,7 +5,7 @@ public class Cliente extends Persona {
     private String cumple;
     private String mail;
 
-    public Cliente(String nombre, int cedula, int telefono, String direcUbicacion, String cumple,String mail) {
+    public Cliente(String nombre, String cedula, String telefono, String direcUbicacion, String cumple, String mail) {
         super(nombre, cedula, telefono, direcUbicacion);
         this.cumple=cumple;
         this.mail=mail;

@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c2836da-f71c-45ce-bae0-b35f408eb5f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratorio2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/aplication/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Emplado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Juguete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Emplado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Emplado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Juguete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Juguete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/model/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/services/Mensajes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/cue/jugueteria/services/Mensajes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +75,36 @@
       <option name="presentableId" value="Default" />
       <updated>1660951044804</updated>
     </task>
+    <task id="LOCAL-00001" summary="avance">
+      <created>1661308933757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661308933757</updated>
+    </task>
+    <task id="LOCAL-00002" summary="avancew">
+      <created>1661308956544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661308956544</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="avance" />
+    <MESSAGE value="avancew" />
+    <option name="LAST_COMMIT_MESSAGE" value="avancew" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

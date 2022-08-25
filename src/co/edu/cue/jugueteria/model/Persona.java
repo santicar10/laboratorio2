@@ -3,11 +3,11 @@ package co.edu.cue.jugueteria.model;
 public class Persona {
 
     private String nombre;
-    private int cedula;
-    private int telefono;
+    private String cedula;
+    private String telefono;
      private String direcUbicacion;
 
-    public Persona(String nombre, int cedula, int telefono, String direcUbicacion) {
+    public Persona(String nombre, String cedula, String telefono, String direcUbicacion) {
         this.nombre = nombre;
         this.cedula = cedula;
         this.telefono = telefono;
@@ -22,19 +22,19 @@ public class Persona {
         this.nombre = nombre;
     }
 
-    public int getCedula() {
+    public String getCedula() {
         return cedula;
     }
 
-    public void setCedula(int cedula) {
+    public void setCedula(String cedula) {
         this.cedula = cedula;
     }
 
-    public int getTelefono() {
+    public String getTelefono() {
         return telefono;
     }
 
-    public void setTelefono(int telefono) {
+    public void setTelefono(String telefono) {
         this.telefono = telefono;
     }
 

@@ -5,7 +5,7 @@ public class Emplado extends Persona {
     private String salario;
     private String ingresoDate;
 
-    public Emplado(String nombre, int cedula, int telefono, String direcUbicacion,String salario,String ingresoDate) {
+    public Emplado(String nombre, String cedula, String telefono, String direcUbicacion,String salario,String ingresoDate) {
         super(nombre, cedula, telefono, direcUbicacion);
         this.salario=salario;
         this.ingresoDate=ingresoDate;
